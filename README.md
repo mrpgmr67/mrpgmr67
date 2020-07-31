@@ -22,6 +22,10 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Classification Model Tuning](https://www.youtube.com/watch?v=c4ed-c1CnIM)
+- [Newer version of prototype iReject](https://www.youtube.com/watch?v=TwlmpX0JI0k)
+- [New Game Prototype](https://www.youtube.com/watch?v=sP_9u4_UJxI)
+- [Breakfast Button](https://www.youtube.com/watch?v=jRGDXrwRgMM)
 <!-- YOUTUBE:END -->
 
 ---
