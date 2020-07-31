@@ -1,6 +1,6 @@
 ### Hi there, I'm Mike otherwise known as Mr. Programmer [mrpgmr67][website]👋
 
-## I'm a Digital Teraformer, Architect, and Teacher of the next generation of talent!
+## I'm a Digital Teraformer and Educator of the next generation of data talent!
 - 🔭 I’m currently working on cleaning up my data science courses for the fall semester
 - 🌱 I’m currently learning Mandarin
 - 👯 I’m looking to collaborate with other content creators
@@ -28,7 +28,7 @@
 
 ---
 
-<img align="left" alt="Mr. Programmer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MRPGMR67&show_icons=true&hide_border=true" />
+<img align="left" alt="Mr. Programmer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MRPGMR67&show_icons=true&hide_border=true&?theme=algolia" />
 
 [website]: http://pomatto.com
 [youtube]: https://www.youtube.com/channel/UCfpqpNtZf10w4BRImaeniCg
