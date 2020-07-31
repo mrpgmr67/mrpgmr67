@@ -1,11 +1,11 @@
 ### Hi there [mrpgmr67][website]👋
 
-## I'm a Husband, Father, Developer, and Teacher!
-- 🔭 I’m currently working on ... !
-- 🌱 I’m currently learning everything 🤣
+## I'm a Data Teraformer, Architect, and Teacher of the next generation of talent!
+- 🔭 I’m currently working on cleaning up my data science courses for the fall semester
+- 🌱 I’m currently learning Mandarin
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love ...
+- 🥅 2020 Goals: Stay healthy and employed
+- ⚡ Fun fact: I love travel and new experiences
 
 ### Connect with me:
 [<img align="left" alt="pomatto.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -41,7 +41,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="Mr. Programmer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MRPGMR67&show_icons=true&hide_border=true" />
 
 [website]: https://pomatto.com
 [youtube]: https://www.youtube.com/channel/UCfpqpNtZf10w4BRImaeniCg
