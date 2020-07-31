@@ -27,10 +27,8 @@
 <!-- YOUTUBE:END -->
 
 ---
-<img align="left" alt="Mr. Programmer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MRPGMR67&show_icons=true&hide_border=true&theme=algolia&include_all_commits=TRUE" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrpgmr67)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="Mr. Programmer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MRPGMR67&show_icons=true&hide_border=true&theme=algolia&include_all_commits=TRUE">
 
----
 [website]: http://pomatto.com
 [youtube]: https://www.youtube.com/channel/UCfpqpNtZf10w4BRImaeniCg
 [linkedin]: https://www.linkedin.com/in/pomatto
