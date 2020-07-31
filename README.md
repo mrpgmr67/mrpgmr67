@@ -1,3 +1,4 @@
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there, I'm Mike otherwise known as Mr. Programmer [mrpgmr67][website]👋
 
 ## I'm a Digital Teraformer and Educator of the next generation of data talent!
