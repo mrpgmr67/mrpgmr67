@@ -28,6 +28,7 @@
 
 ---
 <img align="left" alt="Mr. Programmer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MRPGMR67&show_icons=true&hide_border=true&theme=algolia&include_all_commits=TRUE">
+[![Statistics](https://github-readme-stats.vercel.app/api?username=mrpgmr67)]
 
 [website]: http://pomatto.com
 [youtube]: https://www.youtube.com/channel/UCfpqpNtZf10w4BRImaeniCg
