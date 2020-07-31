@@ -1,4 +1,3 @@
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there, I'm Mike otherwise known as Mr. Programmer [mrpgmr67][website]👋
 
 ## I'm a Digital Teraformer and Educator of the next generation of data talent!
@@ -29,6 +28,8 @@
 
 ---
 <img align="left" alt="Mr. Programmer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MRPGMR67&show_icons=true&hide_border=true&theme=algolia&include_all_commits=TRUE" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrpgmr67&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: http://pomatto.com
 [youtube]: https://www.youtube.com/channel/UCfpqpNtZf10w4BRImaeniCg
