@@ -1,6 +1,6 @@
 ### Hi there, I'm Mike otherwise known as Mr. Programmer [mrpgmr67][website]👋
 
-## I'm a Data Teraformer, Architect, and Teacher of the next generation of talent!
+## I'm a Digital Teraformer, Architect, and Teacher of the next generation of talent!
 - 🔭 I’m currently working on cleaning up my data science courses for the fall semester
 - 🌱 I’m currently learning Mandarin
 - 👯 I’m looking to collaborate with other content creators
@@ -14,10 +14,6 @@
 
 [<img align="left" alt="mrpgmr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<br />
-
-### Languages and Tools:
-<br />
 <br />
 
 ---
