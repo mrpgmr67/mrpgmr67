@@ -27,8 +27,9 @@
 <!-- YOUTUBE:END -->
 
 ---
-<img align="left" alt="Mr. Programmer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MRPGMR67&show_icons=true&hide_border=true&theme=algolia&include_all_commits=TRUE" />
+[![Introduction to R](https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=Introduction-to-R)](https://github.com/mrpgmr67/Introduction-to-R)
 
+<img align="left" alt="Mr. Programmer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MRPGMR67&show_icons=true&hide_border=true&theme=algolia&include_all_commits=TRUE" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrpgmr67&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: http://pomatto.com
