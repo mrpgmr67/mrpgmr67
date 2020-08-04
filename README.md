@@ -29,7 +29,7 @@
 ---
 <img align="left" alt="Statistics" src="https://github-readme-stats.vercel.app/api?username=MRPGMR67&show_icons=true&hide_border=true&include_all_commits=TRUE">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrpgmr67)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrpgmr67&count_private=true)]()
 
 ---
 [![Introduction to R](https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=Introduction-to-R)](https://github.com/mrpgmr67/Introduction-to-R)
