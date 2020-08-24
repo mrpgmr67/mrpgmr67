@@ -27,9 +27,9 @@
 <!-- YOUTUBE:END -->
 
 ---
-<img align="left" alt="Statistics" src="https://github-readme-stats-zeta-six.vercel.app/api?username=MRPGMR&show_icons=true&hide_border=true&include_all_commits=TRUE">
+<img align="left" alt="Statistics" src="https://github-readme-stats-zeta-six.vercel.app/api?username=MRPGMR67&show_icons=true&hide_border=true&include_all_commits=TRUE">
 
-[![Top Langs](https://github-readme-stats-zeta-six.vercel.app/api/top-langs/?username=mrpgmr)]()
+[![Top Langs](https://github-readme-stats-zeta-six.vercel.app/api/top-langs/?username=mrpgmr67)]()
 
 ---
 [![Introduction to R](https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=Introduction-to-R)](https://github.com/mrpgmr67/Introduction-to-R)
