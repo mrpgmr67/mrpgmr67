@@ -1,7 +1,7 @@
 ### Hi there, I'm Mike otherwise known as Mr. Programmer [mrpgmr67][website]👋
 
 ## I'm a Digital Teraformer and Educator of the next generation of data talent!
-- 🔭 I’m currently working on cleaning up my data science courses for the fall semester
+- 🔭 I’m currently teaching graduate data science courses (R, Python, SPSS) as well as helping on numerous open source projects
 - 🌱 I’m currently learning Mandarin
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Stay healthy and employed
