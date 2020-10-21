@@ -52,8 +52,7 @@
 <!-- YOUTUBE:START -->
 - [Classification Model Tuning](https://www.youtube.com/watch?v=SgpivUfAah0)
 - [The Breakfast Button](https://www.youtube.com/watch?v=Vql3huNXLo8)
-- [Farming Simulation Exercise for Data 710 Introduction to R](https://www.youtube.com/watch?v=3sztqXADshI)
-- [Updated prototype of iReject Application](https://www.youtube.com/watch?v=TwlmpX0JI0k)
+- [Bus Simulation Exercise for Data 710 Introduction to R](https://www.youtube.com/watch?v=3sztqXADshI)
 - [Game Prototype Initial Screen - iReject](https://www.youtube.com/watch?v=sP_9u4_UJxI)
 <!-- YOUTUBE:END -->
 
