@@ -50,6 +50,8 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Farming simulation and introduction to S3/S4 classes in R](https://www.youtube.com/watch?v=b4avIMojtcs)
+- [Bus simulation quick solution](https://www.youtube.com/watch?v=2p19lK7Ko-k)
 - [Classification Model Tuning](https://www.youtube.com/watch?v=SgpivUfAah0)
 - [The Breakfast Button](https://www.youtube.com/watch?v=Vql3huNXLo8)
 - [Bus Simulation Exercise for Data 710 Introduction to R](https://www.youtube.com/watch?v=3sztqXADshI)
