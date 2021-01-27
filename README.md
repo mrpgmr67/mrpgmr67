@@ -50,6 +50,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Classification Modeling in SPSS (Full Video)](https://www.youtube.com/watch?v=0wk8DQT0c0o)
 - [Farming simulation and introduction to S3/S4 classes in R](https://www.youtube.com/watch?v=b4avIMojtcs)
 - [Bus simulation quick solution](https://www.youtube.com/watch?v=2p19lK7Ko-k)
 - [Classification Model Tuning](https://www.youtube.com/watch?v=SgpivUfAah0)
