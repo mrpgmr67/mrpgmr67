@@ -4,7 +4,7 @@
 - 🔭 I’m currently teaching graduate data science courses (R, Python, SPSS) as well as helping on numerous open source projects
 - 🌱 I’m currently working on continuing education with USC SD.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Stay healthy and employed
+- 🥅 2021 Goals: Stay healthy and employed
 - ⚡ Fun fact: I love travel and new experiences
 
 ### Connect with me:
