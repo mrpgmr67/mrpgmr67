@@ -60,6 +60,8 @@
 <!-- YOUTUBE:END -->
 
 ---
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MRPGMR67)](https://github.com/anuraghazra/github-readme-stats)
+
 <img align="left" alt="Statistics" src="https://vercel.com/mrpgmr/github-readme-stats/9yQEhdVsAvpTtPhWBvVzZ5NYCRG6?username=MRPGMR67&show_icons=true&hide_border=true&include_all_commits=TRUE">
 
 
