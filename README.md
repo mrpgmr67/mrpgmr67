@@ -60,8 +60,19 @@
 <!-- YOUTUBE:END -->
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrpgmr67&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
+### Repository Statistics
+[<img align="left" alt="GitHub" width="50%" src="https://github.com/mrpgmr67/mrpgmr67/blob/master/Top%20Languages.PNG" />][linkedin]
+[<img align="right" alt="GitHub" width="42%" src="https://github.com/mrpgmr67/mrpgmr67/blob/master/Repo%20Distribution.PNG" />][linkedin]
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 ---
 
 ### Selected Repositories:
