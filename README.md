@@ -60,7 +60,7 @@
 <!-- YOUTUBE:END -->
 
 ---
-<img align="left" alt="Statistics" src="https://vercel.com/mrpgmr/github-readme-stats/9yQEhdVsAvpTtPhWBvVzZ5NYCRG6?username=MRPGMR67&show_icons=true&hide_border=true&include_all_commits=TRUE">
+<img align="left" alt="Statistics" src="https://github-readme-stats-mrpgmr.vercel.app/?username=MRPGMR67&show_icons=true&hide_border=true&include_all_commits=TRUE">
 
 
 [![Top Langs](https://github-readme-stats-zeta-six.vercel.app/api/top-langs/?username=mrpgmr67&layout=verbose)](https://github.com/mrpgmr67/github-readme-stats)
