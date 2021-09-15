@@ -50,6 +50,9 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Data 710 Week 2 Supplementary Video](https://www.youtube.com/watch?v=oEraOgPLT6w)
+- [Data 710 Week 1](https://www.youtube.com/watch?v=gE-k2fwABsg)
+- [Rundown of Security Measures](https://www.youtube.com/watch?v=XWctsGL0Lq4)
 - [Classification Modeling in SPSS (Full Video)](https://www.youtube.com/watch?v=0wk8DQT0c0o)
 - [Farming simulation and introduction to S3/S4 classes in R](https://www.youtube.com/watch?v=b4avIMojtcs)
 - [Bus simulation quick solution](https://www.youtube.com/watch?v=2p19lK7Ko-k)
