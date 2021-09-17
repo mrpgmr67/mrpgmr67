@@ -50,6 +50,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Cat teaches Data Science](https://www.youtube.com/watch?v=QWCsu66WwHA)
 - [Data 710 Week 2 Supplementary Video](https://www.youtube.com/watch?v=oEraOgPLT6w)
 - [Data 710 Week 1](https://www.youtube.com/watch?v=gE-k2fwABsg)
 - [Rundown of Security Measures](https://www.youtube.com/watch?v=XWctsGL0Lq4)
