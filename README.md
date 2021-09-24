@@ -50,6 +50,8 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Data 710 Week 3 Video](https://www.youtube.com/watch?v=UVmv5jIj6qQ)
+- [Data 742 Week 3 Supplemental Video](https://www.youtube.com/watch?v=3liPbCG8OcA)
 - [Cat teaches Data Science](https://www.youtube.com/watch?v=QWCsu66WwHA)
 - [Data 710 Week 2 Supplementary Video](https://www.youtube.com/watch?v=oEraOgPLT6w)
 - [Data 710 Week 1](https://www.youtube.com/watch?v=gE-k2fwABsg)
