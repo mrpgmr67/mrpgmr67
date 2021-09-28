@@ -50,6 +50,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Simple Regression of Orange Tree Data](https://www.youtube.com/watch?v=5LnwI9zzwyU)
 - [Data 710 Week 3 Video](https://www.youtube.com/watch?v=UVmv5jIj6qQ)
 - [Data 742 Week 3 Supplemental Video](https://www.youtube.com/watch?v=3liPbCG8OcA)
 - [Cat teaches Data Science](https://www.youtube.com/watch?v=QWCsu66WwHA)
