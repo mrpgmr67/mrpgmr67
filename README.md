@@ -50,8 +50,9 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Data 742 Structured and External Data](https://www.youtube.com/watch?v=_xbhv-IEJp8)
-- [Simple Regression of Orange Tree Data](https://www.youtube.com/watch?v=5LnwI9zzwyU)
+- [InstallR and Updating R Studio](https://www.youtube.com/watch?v=uNgvwUz3Egg)
+- [Structured and External Data - Data Warehousing and Data Lakes](https://www.youtube.com/watch?v=_xbhv-IEJp8)
+- [Simple Regression of Orange Tree Data in R](https://www.youtube.com/watch?v=5LnwI9zzwyU)
 - [Data 710 Week 3 Video](https://www.youtube.com/watch?v=UVmv5jIj6qQ)
 - [Data 742 Week 3 Supplemental Video](https://www.youtube.com/watch?v=3liPbCG8OcA)
 - [Cat teaches Data Science](https://www.youtube.com/watch?v=QWCsu66WwHA)
@@ -64,7 +65,6 @@
 - [Classification Model Tuning](https://www.youtube.com/watch?v=SgpivUfAah0)
 - [The Breakfast Button](https://www.youtube.com/watch?v=Vql3huNXLo8)
 - [Bus Simulation Exercise for Data 710 Introduction to R](https://www.youtube.com/watch?v=3sztqXADshI)
-- [Game Prototype Initial Screen - iReject](https://www.youtube.com/watch?v=sP_9u4_UJxI)
 <!-- YOUTUBE:END -->
 
 ---
