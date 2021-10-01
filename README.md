@@ -50,6 +50,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Sorting Examples in R](https://www.youtube.com/watch?v=nv9cCyMqAcY)
 - [InstallR and Updating R Studio](https://www.youtube.com/watch?v=uNgvwUz3Egg)
 - [Structured and External Data - Data Warehousing and Data Lakes](https://www.youtube.com/watch?v=_xbhv-IEJp8)
 - [Simple Regression of Orange Tree Data in R](https://www.youtube.com/watch?v=5LnwI9zzwyU)
@@ -64,7 +65,6 @@
 - [Bus simulation quick solution](https://www.youtube.com/watch?v=2p19lK7Ko-k)
 - [Classification Model Tuning](https://www.youtube.com/watch?v=SgpivUfAah0)
 - [The Breakfast Button](https://www.youtube.com/watch?v=Vql3huNXLo8)
-- [Bus Simulation Exercise for Data 710 Introduction to R](https://www.youtube.com/watch?v=3sztqXADshI)
 <!-- YOUTUBE:END -->
 
 ---
