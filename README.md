@@ -50,6 +50,9 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Technology Considerations in Data Systems](https://www.youtube.com/watch?v=FzKu--OmCHQ)
+- [Introduction to Simulations in R](https://www.youtube.com/watch?v=WQD72ycEmiY)
+- [Simple Counter in R](https://www.youtube.com/watch?v=wQi3mbOAO0c)
 - [Programming Structures in R](https://www.youtube.com/watch?v=brJClw_rKg4)
 - [Sorting Examples in R](https://www.youtube.com/watch?v=nv9cCyMqAcY)
 - [InstallR and Updating R Studio](https://www.youtube.com/watch?v=uNgvwUz3Egg)
@@ -61,10 +64,6 @@
 - [Vectors, Matrices and Arrays in R Supplementary Video](https://www.youtube.com/watch?v=oEraOgPLT6w)
 - [Introduction to R grading submission feedback](https://www.youtube.com/watch?v=gE-k2fwABsg)
 - [Rundown of Security Measures](https://www.youtube.com/watch?v=XWctsGL0Lq4)
-- [Classification Modeling in SPSS (Full Video)](https://www.youtube.com/watch?v=0wk8DQT0c0o)
-- [Farming simulation and introduction to S3/S4 classes in R](https://www.youtube.com/watch?v=b4avIMojtcs)
-- [Bus simulation quick solution](https://www.youtube.com/watch?v=2p19lK7Ko-k)
-- [Classification Model Tuning](https://www.youtube.com/watch?v=SgpivUfAah0)
 <!-- YOUTUBE:END -->
 
 ---
