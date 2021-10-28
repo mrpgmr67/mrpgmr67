@@ -64,6 +64,7 @@
 - [Vectors, Matrices and Arrays in R Supplementary Video](https://www.youtube.com/watch?v=oEraOgPLT6w)
 - [Introduction to R grading submission feedback](https://www.youtube.com/watch?v=gE-k2fwABsg)
 - [Rundown of Security Measures](https://www.youtube.com/watch?v=XWctsGL0Lq4)
+- [Classification Modeling in SPSS (Full Video)](https://www.youtube.com/watch?v=0wk8DQT0c0o)
 <!-- YOUTUBE:END -->
 
 ---
