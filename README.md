@@ -50,6 +50,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [String Manipulation](https://www.youtube.com/watch?v=FJdTb_SRswU)
 - [Technology Considerations in Data Systems](https://www.youtube.com/watch?v=FzKu--OmCHQ)
 - [Introduction to Simulations in R](https://www.youtube.com/watch?v=WQD72ycEmiY)
 - [Simple Counter in R](https://www.youtube.com/watch?v=wQi3mbOAO0c)
@@ -64,7 +65,6 @@
 - [Vectors, Matrices and Arrays in R Supplementary Video](https://www.youtube.com/watch?v=oEraOgPLT6w)
 - [Introduction to R grading submission feedback](https://www.youtube.com/watch?v=gE-k2fwABsg)
 - [Rundown of Security Measures](https://www.youtube.com/watch?v=XWctsGL0Lq4)
-- [Classification Modeling in SPSS (Full Video)](https://www.youtube.com/watch?v=0wk8DQT0c0o)
 <!-- YOUTUBE:END -->
 
 ---
