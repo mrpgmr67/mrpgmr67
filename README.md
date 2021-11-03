@@ -69,7 +69,7 @@
 
 ---
 ### Repository Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=pomatto.com&langs_count=8,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=pomatto.com&langs_count=15,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
