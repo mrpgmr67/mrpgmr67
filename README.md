@@ -86,12 +86,9 @@
 </a><a href="https://github.com/mrpgmr67/API-Proxy-Server">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=API-Proxy-Server" />
 </a>
-
-[![Introduction to R](https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=Introduction-to-R)](https://github.com/mrpgmr67/Introduction-to-R)
-[![Data Warehousing](https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=Data_Warehousing)](https://github.com/mrpgmr67/Data_Warehousing)
-[![Breakfast Button](https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=BreakFast-Button)](https://github.com/mrpgmr67/BreakFast-Button)
-[![API Proxy Server](https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=API-Proxy-Server)](https://github.com/mrpgmr67/API-Proxy-Server)
-[![Python Flask Testing](https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=flask-tests)](https://github.com/mrpgmr67/flask-tests)
+</a><a href="https://github.com/mrpgmr67/flask-tests">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=flask-tests" />
+</a>
 
 [website]: http://pomatto.com
 [youtube]: https://www.youtube.com/channel/UCfpqpNtZf10w4BRImaeniCg
