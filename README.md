@@ -78,6 +78,7 @@
 [![Data Warehousing](https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=Data_Warehousing)](https://github.com/mrpgmr67/Data_Warehousing)
 [![Breakfast Button](https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=BreakFast-Button)](https://github.com/mrpgmr67/BreakFast-Button)
 [![API Proxy Server](https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=API-Proxy-Server)](https://github.com/mrpgmr67/API-Proxy-Server)
+[![Python Flask Testing](https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=flask-tests)](https://github.com/mrpgmr67/flask-tests)
 
 [website]: http://pomatto.com
 [youtube]: https://www.youtube.com/channel/UCfpqpNtZf10w4BRImaeniCg
