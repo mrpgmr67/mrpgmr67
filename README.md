@@ -76,7 +76,7 @@
 ### Selected Repositories:
 
 <a href="https://github.com/mrpgmr67/Introduction-to-R">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=Introduction-to-R" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=Introduction-to-R&theme=radical" />
 </a>
 <a href="https://github.com/mrpgmr67/Data_Warehousing">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=Data_Warehousing" />
