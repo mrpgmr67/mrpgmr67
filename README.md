@@ -69,25 +69,25 @@
 
 ---
 ### Repository Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=pomatto.com&langs_count=15,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrpgmr67&exclude_repo=pomatto.com&langs_count=15,mrpgmr67.github.io)](https://github.com/mrpgmr67/github-readme-stats)
 
 ---
 
 ### Selected Repositories:
 
 <a href="https://github.com/mrpgmr67/Introduction-to-R">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=Introduction-to-R&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=Introduction-to-R&theme=dark" />
 </a>
 <a href="https://github.com/mrpgmr67/Data_Warehousing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=Data_Warehousing" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=Data_Warehousing&theme=dark" />
 </a>
 <a href="https://github.com/mrpgmr67/Breakfast-Button">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=Breakfast-Button" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=Breakfast-Button&theme=dark" />
 </a><a href="https://github.com/mrpgmr67/API-Proxy-Server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=API-Proxy-Server" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=API-Proxy-Server&theme=dark" />
 </a>
 </a><a href="https://github.com/mrpgmr67/flask-tests">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=flask-tests" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=flask-tests&theme=dark" />
 </a>
 
 [website]: http://pomatto.com
