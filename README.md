@@ -69,7 +69,7 @@
 
 ---
 ### Repository Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrpgmr67&langs_count=15,mrpgmr67.github.io)](https://github.com/mrpgmr67/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrpgmr67&langs_count=14,mrpgmr67.github.io)](https://github.com/mrpgmr67/github-readme-stats)
 
 ---
 
