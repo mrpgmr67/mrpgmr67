@@ -50,6 +50,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Graphics in R](https://www.youtube.com/watch?v=NSjrFrPCM4M)
 - [String Manipulation](https://www.youtube.com/watch?v=FJdTb_SRswU)
 - [Technology Considerations in Data Systems](https://www.youtube.com/watch?v=FzKu--OmCHQ)
 - [Introduction to Simulations in R](https://www.youtube.com/watch?v=WQD72ycEmiY)
@@ -64,7 +65,6 @@
 - [Cat teaches Data Science](https://www.youtube.com/watch?v=QWCsu66WwHA)
 - [Vectors, Matrices and Arrays in R Supplementary Video](https://www.youtube.com/watch?v=oEraOgPLT6w)
 - [Introduction to R grading submission feedback](https://www.youtube.com/watch?v=gE-k2fwABsg)
-- [Rundown of Security Measures](https://www.youtube.com/watch?v=XWctsGL0Lq4)
 <!-- YOUTUBE:END -->
 
 ---
