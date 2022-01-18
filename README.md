@@ -50,6 +50,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Deeper Dive on Lift](https://www.youtube.com/watch?v=WaW5okgtmt8)
 - [Graphics in R](https://www.youtube.com/watch?v=NSjrFrPCM4M)
 - [String Manipulation](https://www.youtube.com/watch?v=FJdTb_SRswU)
 - [Technology Considerations in Data Systems](https://www.youtube.com/watch?v=FzKu--OmCHQ)
@@ -64,7 +65,6 @@
 - [Hadoop Architecture Supplementary Video](https://www.youtube.com/watch?v=3liPbCG8OcA)
 - [Cat teaches Data Science](https://www.youtube.com/watch?v=QWCsu66WwHA)
 - [Vectors, Matrices and Arrays in R Supplementary Video](https://www.youtube.com/watch?v=oEraOgPLT6w)
-- [Introduction to R grading submission feedback](https://www.youtube.com/watch?v=gE-k2fwABsg)
 <!-- YOUTUBE:END -->
 
 ---
