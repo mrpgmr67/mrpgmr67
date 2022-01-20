@@ -50,6 +50,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Week two Classification Models](https://www.youtube.com/watch?v=YkcJYoTDslQ)
 - [Deeper Dive on Lift](https://www.youtube.com/watch?v=WaW5okgtmt8)
 - [Graphics in R](https://www.youtube.com/watch?v=NSjrFrPCM4M)
 - [String Manipulation](https://www.youtube.com/watch?v=FJdTb_SRswU)
@@ -64,7 +65,6 @@
 - [Lists and Data Frames in R Supplementary Video](https://www.youtube.com/watch?v=UVmv5jIj6qQ)
 - [Hadoop Architecture Supplementary Video](https://www.youtube.com/watch?v=3liPbCG8OcA)
 - [Cat teaches Data Science](https://www.youtube.com/watch?v=QWCsu66WwHA)
-- [Vectors, Matrices and Arrays in R Supplementary Video](https://www.youtube.com/watch?v=oEraOgPLT6w)
 <!-- YOUTUBE:END -->
 
 ---
