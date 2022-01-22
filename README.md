@@ -50,6 +50,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Classification Model: Questions for EDA portion](https://www.youtube.com/watch?v=VYLeU3Ka63A)
 - [Week two Classification Models](https://www.youtube.com/watch?v=YkcJYoTDslQ)
 - [Deeper Dive on Lift](https://www.youtube.com/watch?v=WaW5okgtmt8)
 - [Graphics in R](https://www.youtube.com/watch?v=NSjrFrPCM4M)
@@ -64,7 +65,6 @@
 - [Simple Regression of Orange Tree Data in R](https://www.youtube.com/watch?v=5LnwI9zzwyU)
 - [Lists and Data Frames in R Supplementary Video](https://www.youtube.com/watch?v=UVmv5jIj6qQ)
 - [Hadoop Architecture Supplementary Video](https://www.youtube.com/watch?v=3liPbCG8OcA)
-- [Cat teaches Data Science](https://www.youtube.com/watch?v=QWCsu66WwHA)
 <!-- YOUTUBE:END -->
 
 ---
