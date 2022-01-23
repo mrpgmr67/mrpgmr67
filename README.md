@@ -50,6 +50,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Speed Up SPSS](https://www.youtube.com/watch?v=kyye-Q5dBEg)
 - [Classification Model: Questions for EDA portion](https://www.youtube.com/watch?v=VYLeU3Ka63A)
 - [Week two Classification Models](https://www.youtube.com/watch?v=YkcJYoTDslQ)
 - [Deeper Dive on Lift](https://www.youtube.com/watch?v=WaW5okgtmt8)
@@ -64,7 +65,6 @@
 - [Structured and External Data - Data Warehousing and Data Lakes](https://www.youtube.com/watch?v=_xbhv-IEJp8)
 - [Simple Regression of Orange Tree Data in R](https://www.youtube.com/watch?v=5LnwI9zzwyU)
 - [Lists and Data Frames in R Supplementary Video](https://www.youtube.com/watch?v=UVmv5jIj6qQ)
-- [Hadoop Architecture Supplementary Video](https://www.youtube.com/watch?v=3liPbCG8OcA)
 <!-- YOUTUBE:END -->
 
 ---
