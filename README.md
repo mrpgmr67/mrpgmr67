@@ -50,6 +50,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Behavioral Segmentation Modeling](https://www.youtube.com/watch?v=Y-Osqeuw-aA)
 - [Classification Model Deployment](https://www.youtube.com/watch?v=gCV8TWGdLWk)
 - [Speed Up SPSS](https://www.youtube.com/watch?v=kyye-Q5dBEg)
 - [Classification Model: Questions for EDA portion](https://www.youtube.com/watch?v=VYLeU3Ka63A)
@@ -64,7 +65,6 @@
 - [Sorting Examples in R](https://www.youtube.com/watch?v=nv9cCyMqAcY)
 - [InstallR and Updating R Studio](https://www.youtube.com/watch?v=uNgvwUz3Egg)
 - [Structured and External Data - Data Warehousing and Data Lakes](https://www.youtube.com/watch?v=_xbhv-IEJp8)
-- [Simple Regression of Orange Tree Data in R](https://www.youtube.com/watch?v=5LnwI9zzwyU)
 <!-- YOUTUBE:END -->
 
 ---
