@@ -50,6 +50,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Finding Datasets   Final Project](https://www.youtube.com/watch?v=z1XkgH-aeiM)
 - [Behavioral Segmentation Modeling](https://www.youtube.com/watch?v=Y-Osqeuw-aA)
 - [Classification Model Deployment](https://www.youtube.com/watch?v=gCV8TWGdLWk)
 - [Speed Up SPSS](https://www.youtube.com/watch?v=kyye-Q5dBEg)
@@ -64,7 +65,6 @@
 - [Programming Structures in R](https://www.youtube.com/watch?v=brJClw_rKg4)
 - [Sorting Examples in R](https://www.youtube.com/watch?v=nv9cCyMqAcY)
 - [InstallR and Updating R Studio](https://www.youtube.com/watch?v=uNgvwUz3Egg)
-- [Structured and External Data - Data Warehousing and Data Lakes](https://www.youtube.com/watch?v=_xbhv-IEJp8)
 <!-- YOUTUBE:END -->
 
 ---
