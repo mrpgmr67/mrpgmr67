@@ -50,6 +50,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [SPSS Modeling - Segmentation with Binning](https://www.youtube.com/watch?v=opdHqVc_Bhk)
 - [Finding Datasets   Final Project](https://www.youtube.com/watch?v=z1XkgH-aeiM)
 - [Behavioral Segmentation Modeling](https://www.youtube.com/watch?v=Y-Osqeuw-aA)
 - [Classification Model Deployment](https://www.youtube.com/watch?v=gCV8TWGdLWk)
@@ -64,7 +65,6 @@
 - [Simple Counter in R](https://www.youtube.com/watch?v=wQi3mbOAO0c)
 - [Programming Structures in R](https://www.youtube.com/watch?v=brJClw_rKg4)
 - [Sorting Examples in R](https://www.youtube.com/watch?v=nv9cCyMqAcY)
-- [InstallR and Updating R Studio](https://www.youtube.com/watch?v=uNgvwUz3Egg)
 <!-- YOUTUBE:END -->
 
 ---
