@@ -50,6 +50,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [SVM Model Issues](https://www.youtube.com/watch?v=YJAMlR6hu1M)
 - [Classification Algorithms](https://www.youtube.com/watch?v=DhtDwCJcE34)
 - [SPSS Modeling - Segmentation with Binning](https://www.youtube.com/watch?v=opdHqVc_Bhk)
 - [Finding Datasets   Final Project](https://www.youtube.com/watch?v=z1XkgH-aeiM)
@@ -64,7 +65,6 @@
 - [Technology Considerations in Data Systems](https://www.youtube.com/watch?v=FzKu--OmCHQ)
 - [Introduction to Simulations in R](https://www.youtube.com/watch?v=WQD72ycEmiY)
 - [Simple Counter in R](https://www.youtube.com/watch?v=wQi3mbOAO0c)
-- [Programming Structures in R](https://www.youtube.com/watch?v=brJClw_rKg4)
 <!-- YOUTUBE:END -->
 
 ---
