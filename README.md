@@ -50,6 +50,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Finance Use Case](https://www.youtube.com/watch?v=wDIzHWdKb-4)
 - [SVM Model Issues](https://www.youtube.com/watch?v=YJAMlR6hu1M)
 - [Classification Algorithms](https://www.youtube.com/watch?v=DhtDwCJcE34)
 - [SPSS Modeling - Segmentation with Binning](https://www.youtube.com/watch?v=opdHqVc_Bhk)
@@ -64,7 +65,6 @@
 - [String Manipulation](https://www.youtube.com/watch?v=FJdTb_SRswU)
 - [Technology Considerations in Data Systems](https://www.youtube.com/watch?v=FzKu--OmCHQ)
 - [Introduction to Simulations in R](https://www.youtube.com/watch?v=WQD72ycEmiY)
-- [Simple Counter in R](https://www.youtube.com/watch?v=wQi3mbOAO0c)
 <!-- YOUTUBE:END -->
 
 ---
