@@ -50,6 +50,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [2022 Fall Data 710 Week 2](https://www.youtube.com/watch?v=cI_QpKjMD6Q)
 - [Finance Use Case](https://www.youtube.com/watch?v=wDIzHWdKb-4)
 - [SVM Model Issues](https://www.youtube.com/watch?v=YJAMlR6hu1M)
 - [Classification Algorithms](https://www.youtube.com/watch?v=DhtDwCJcE34)
@@ -64,7 +65,6 @@
 - [Graphics in R](https://www.youtube.com/watch?v=NSjrFrPCM4M)
 - [String Manipulation](https://www.youtube.com/watch?v=FJdTb_SRswU)
 - [Technology Considerations in Data Systems](https://www.youtube.com/watch?v=FzKu--OmCHQ)
-- [Introduction to Simulations in R](https://www.youtube.com/watch?v=WQD72ycEmiY)
 <!-- YOUTUBE:END -->
 
 ---
