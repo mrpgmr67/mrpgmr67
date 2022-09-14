@@ -50,6 +50,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Recursion Example in R](https://www.youtube.com/watch?v=rLmfFhwwWH0)
 - [2022 Fall Data 710 Week 2](https://www.youtube.com/watch?v=cI_QpKjMD6Q)
 - [Finance Use Case](https://www.youtube.com/watch?v=wDIzHWdKb-4)
 - [SVM Model Issues](https://www.youtube.com/watch?v=YJAMlR6hu1M)
@@ -64,7 +65,6 @@
 - [Deeper Dive on Lift](https://www.youtube.com/watch?v=WaW5okgtmt8)
 - [Graphics in R](https://www.youtube.com/watch?v=NSjrFrPCM4M)
 - [String Manipulation](https://www.youtube.com/watch?v=FJdTb_SRswU)
-- [Technology Considerations in Data Systems](https://www.youtube.com/watch?v=FzKu--OmCHQ)
 <!-- YOUTUBE:END -->
 
 ---
