@@ -50,6 +50,8 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Lists, Quanteda, and Linear Regression Exercise](https://www.youtube.com/watch?v=FAm3P-TeqDc)
+- [Dixon Test for Outliers in R](https://www.youtube.com/watch?v=DPFGrZFfAo0)
 - [Recursion Example in R](https://www.youtube.com/watch?v=rLmfFhwwWH0)
 - [2022 Fall Data 710 Week 2](https://www.youtube.com/watch?v=cI_QpKjMD6Q)
 - [Finance Use Case](https://www.youtube.com/watch?v=wDIzHWdKb-4)
@@ -63,8 +65,6 @@
 - [Classification Model: Questions for EDA portion](https://www.youtube.com/watch?v=VYLeU3Ka63A)
 - [Week two Classification Models](https://www.youtube.com/watch?v=YkcJYoTDslQ)
 - [Deeper Dive on Lift](https://www.youtube.com/watch?v=WaW5okgtmt8)
-- [Graphics in R](https://www.youtube.com/watch?v=NSjrFrPCM4M)
-- [String Manipulation](https://www.youtube.com/watch?v=FJdTb_SRswU)
 <!-- YOUTUBE:END -->
 
 ---
