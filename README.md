@@ -50,6 +50,8 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [String Manipulation in R](https://www.youtube.com/watch?v=zePa2VIxyTU)
+- [Initial Data Warehouse Project Information](https://www.youtube.com/watch?v=Y2WdbwvsUwY)
 - [S3 and S4 Classes in R](https://www.youtube.com/watch?v=RTcEUEkSjEU)
 - [Lists, Quanteda, and Linear Regression Exercise](https://www.youtube.com/watch?v=FAm3P-TeqDc)
 - [Dixon Test for Outliers in R](https://www.youtube.com/watch?v=DPFGrZFfAo0)
@@ -63,8 +65,6 @@
 - [Behavioral Segmentation Modeling](https://www.youtube.com/watch?v=Y-Osqeuw-aA)
 - [Classification Model Deployment](https://www.youtube.com/watch?v=gCV8TWGdLWk)
 - [Speed Up SPSS](https://www.youtube.com/watch?v=kyye-Q5dBEg)
-- [Classification Model: Questions for EDA portion](https://www.youtube.com/watch?v=VYLeU3Ka63A)
-- [Week two Classification Models](https://www.youtube.com/watch?v=YkcJYoTDslQ)
 <!-- YOUTUBE:END -->
 
 ---
