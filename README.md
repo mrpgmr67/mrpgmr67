@@ -50,6 +50,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Good and Poor Form](https://www.youtube.com/watch?v=ypJlUwB1x1E)
 - [String Manipulation in R](https://www.youtube.com/watch?v=zePa2VIxyTU)
 - [Initial Data Warehouse Project Information](https://www.youtube.com/watch?v=Y2WdbwvsUwY)
 - [S3 and S4 Classes in R](https://www.youtube.com/watch?v=RTcEUEkSjEU)
@@ -64,7 +65,6 @@
 - [Finding Datasets   Final Project](https://www.youtube.com/watch?v=z1XkgH-aeiM)
 - [Behavioral Segmentation Modeling](https://www.youtube.com/watch?v=Y-Osqeuw-aA)
 - [Classification Model Deployment](https://www.youtube.com/watch?v=gCV8TWGdLWk)
-- [Speed Up SPSS](https://www.youtube.com/watch?v=kyye-Q5dBEg)
 <!-- YOUTUBE:END -->
 
 ---
