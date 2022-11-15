@@ -50,6 +50,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Scheduling Tasks and Database Connections in R](https://www.youtube.com/watch?v=yJlqqYwzsuE)
 - [Graphics Expanded](https://www.youtube.com/watch?v=np8w7J3E3j0)
 - [Good and Poor Form](https://www.youtube.com/watch?v=ypJlUwB1x1E)
 - [String Manipulation in R](https://www.youtube.com/watch?v=zePa2VIxyTU)
@@ -64,7 +65,6 @@
 - [Classification Algorithms](https://www.youtube.com/watch?v=DhtDwCJcE34)
 - [SPSS Modeling - Segmentation with Binning](https://www.youtube.com/watch?v=opdHqVc_Bhk)
 - [Finding Datasets   Final Project](https://www.youtube.com/watch?v=z1XkgH-aeiM)
-- [Behavioral Segmentation Modeling](https://www.youtube.com/watch?v=Y-Osqeuw-aA)
 <!-- YOUTUBE:END -->
 
 ---
