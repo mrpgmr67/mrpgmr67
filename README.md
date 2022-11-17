@@ -50,6 +50,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Case Statement in R](https://www.youtube.com/watch?v=9efP5D-323k)
 - [Scheduling Tasks and Database Connections in R](https://www.youtube.com/watch?v=yJlqqYwzsuE)
 - [Graphics Expanded](https://www.youtube.com/watch?v=np8w7J3E3j0)
 - [Good and Poor Form](https://www.youtube.com/watch?v=ypJlUwB1x1E)
@@ -64,7 +65,6 @@
 - [SVM Model Issues](https://www.youtube.com/watch?v=YJAMlR6hu1M)
 - [Classification Algorithms](https://www.youtube.com/watch?v=DhtDwCJcE34)
 - [SPSS Modeling - Segmentation with Binning](https://www.youtube.com/watch?v=opdHqVc_Bhk)
-- [Finding Datasets   Final Project](https://www.youtube.com/watch?v=z1XkgH-aeiM)
 <!-- YOUTUBE:END -->
 
 ---
