@@ -50,6 +50,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Live Coding Introduction - Building Shiny / Flex Dashboard](https://www.youtube.com/watch?v=fVrIpZHxPRA)
 - [Case Statement in R](https://www.youtube.com/watch?v=9efP5D-323k)
 - [Scheduling Tasks and Database Connections in R](https://www.youtube.com/watch?v=yJlqqYwzsuE)
 - [Graphics Expanded](https://www.youtube.com/watch?v=np8w7J3E3j0)
@@ -64,7 +65,6 @@
 - [Finance Use Case](https://www.youtube.com/watch?v=wDIzHWdKb-4)
 - [SVM Model Issues](https://www.youtube.com/watch?v=YJAMlR6hu1M)
 - [Classification Algorithms](https://www.youtube.com/watch?v=DhtDwCJcE34)
-- [SPSS Modeling - Segmentation with Binning](https://www.youtube.com/watch?v=opdHqVc_Bhk)
 <!-- YOUTUBE:END -->
 
 ---
