@@ -1,5 +1,7 @@
 ### Hi there, I'm Mike otherwise known as Mr. Programmer [mrpgmr67][website]👋
 
+Welcome to my code portal! As a data scientist and software developer with extensive experience in architecture and process modernization, I am passionate about utilizing technology to drive innovation and solve complex problems. In addition to my work in industry, I am dedicated to sharing my knowledge and expertise with the next generation of technologists. Here, you will find a collection of my projects and code samples that not only showcase my skills in data analysis, application development, and system architecture, but also serve as educational resources for aspiring data scientists and software engineers. From data visualizations and machine learning models to web applications and microservices, I am constantly exploring new technologies and approaches to deliver high-quality solutions and inspire others to do the same. Thank you for visiting my code portal, and I hope you find my work informative and inspiring.
+
 ## I'm a Digital Teraformer and Educator of the next generation of data talent!
 - 🔭 I’m currently teaching graduate data science courses (R, Python, SPSS) as well as helping on numerous open source projects
 - 🌱 I’m currently working on continuing education with USC SD.
