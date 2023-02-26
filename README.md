@@ -89,8 +89,11 @@ Welcome to my code portal! As a data scientist and software developer with exten
 </a><a href="https://github.com/mrpgmr67/API-Proxy-Server">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=API-Proxy-Server&theme=dark" />
 </a>
-</a><a href="https://github.com/mrpgmr67/flask-tests">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=flask-tests&theme=dark" />
+</a><a href="https://github.com/mrpgmr67/python-flask-tests">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=python-flask-tests&theme=dark" />
+</a>
+</a><a href="https://github.com/mrpgmr67/hack-the-machine">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=hack-the-machine&theme=dark" />
 </a>
 
 [website]: http://pomatto.com
