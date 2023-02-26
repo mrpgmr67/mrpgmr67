@@ -95,6 +95,11 @@ Welcome to my code portal! As a data scientist and software developer with exten
 </a><a href="https://github.com/mrpgmr67/hack-the-machine">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=hack-the-machine&theme=dark" />
 </a>
+</a><a href="https://github.com/mrpgmr67/pomatto.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&pomatto.com&theme=dark" />
+</a>
+
+
 
 [website]: http://pomatto.com
 [youtube]: https://www.youtube.com/channel/UCfpqpNtZf10w4BRImaeniCg
