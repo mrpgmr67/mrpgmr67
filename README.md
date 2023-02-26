@@ -87,17 +87,14 @@ Welcome to my code portal! As a data scientist and software developer with exten
 <a href="https://github.com/mrpgmr67/Breakfast-Button">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=Breakfast-Button&theme=dark" />
 </a>
-<a href="https://github.com/mrpgmr67/API-Proxy-Server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=API-Proxy-Server&theme=dark" />
-</a>
 <a href="https://github.com/mrpgmr67/python-flask-tests">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=python-flask-tests&theme=dark" />
 </a>
 <a href="https://github.com/mrpgmr67/hack-the-machine">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=hack-the-machine&theme=dark" />
 </a>
-<a href="https://github.com/mrpgmr67/python-scratch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&python-scratch&theme=dark" />
+<a href="https://github.com/mrpgmr67/API-Proxy-Server">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=API-Proxy-Server&theme=dark" />
 </a>
 
 
