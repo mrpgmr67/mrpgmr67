@@ -99,6 +99,9 @@ Welcome to my code portal! As a data scientist and software developer with exten
 <a href="https://github.com/mrpgmr67/random-user-gen">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=random-user-gen&theme=dark" />
 </a>
+<a href="https://github.com/mrpgmr67/CICD-On-Github">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=CICD-On-Github&theme=dark" />
+</a>
 <a href="https://github.com/mrpgmr67/token-list">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=token-list&theme=dark" />
 </a>
