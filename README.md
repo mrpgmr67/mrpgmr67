@@ -102,6 +102,9 @@ Welcome to my code portal! As a data scientist and software developer with exten
 <a href="https://github.com/mrpgmr67/API-Proxy-Server">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=API-Proxy-Server&theme=dark" />
 </a>
+<a href="https://github.com/mrpgmr67/python-scratch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=python-scratch&theme=dark" />
+</a>
 <a href="https://github.com/mrpgmr67/token-list">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=token-list&theme=dark" />
 </a>
