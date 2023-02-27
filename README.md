@@ -96,8 +96,8 @@ Welcome to my code portal! As a data scientist and software developer with exten
 <a href="https://github.com/mrpgmr67/hack-the-machine">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=hack-the-machine&theme=dark" />
 </a>
-<a href="https://github.com/mrpgmr67/CICD-On-Github">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=CICD-On-Github&theme=dark" />
+<a href="https://github.com/mrpgmr67/CICD-Pipeline">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=CICD-Pipeline&theme=dark" />
 </a>
 <a href="https://github.com/mrpgmr67/random-user-gen">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=random-user-gen&theme=dark" />
