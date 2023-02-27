@@ -84,6 +84,9 @@ Welcome to my code portal! As a data scientist and software developer with exten
 <a href="https://github.com/mrpgmr67/Data-Warehousing">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=Data-Warehousing&theme=dark" />
 </a>
+<a href="https://github.com/mrpgmr67/Data-analytics-SPSS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=Data-analytics-SPSS&theme=dark" />
+</a>
 <a href="https://github.com/mrpgmr67/Breakfast-Button">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=Breakfast-Button&theme=dark" />
 </a>
@@ -104,9 +107,6 @@ Welcome to my code portal! As a data scientist and software developer with exten
 </a>
 <a href="https://github.com/mrpgmr67/python-scratch">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=python-scratch&theme=dark" />
-</a>
-<a href="https://github.com/mrpgmr67/Data-analytics-SPSS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=Data-analytics-SPSS&theme=dark" />
 </a>
 <a href="https://github.com/mrpgmr67/token-list">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=token-list&theme=dark" />
