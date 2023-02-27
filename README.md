@@ -1,4 +1,4 @@
-## Data Scientist, Full Stack Developer, Educator: 
+## Data Scientist, Full Stack Developer, Architect, Educator: 
 
 ### Driving Innovation through Process Modernization, Automation, and AI/MLOps approaches
 
