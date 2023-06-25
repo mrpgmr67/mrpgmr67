@@ -53,6 +53,10 @@ Welcome to my code portal! As a data scientist and software developer with exten
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Implementing Basic Control Structures in Python](https://www.youtube.com/watch?v=BT4P07M2h80)
+- [Why should I learn python?  My perspective](https://www.youtube.com/watch?v=K69Bjx1aJSk)
+- [Simple GIT Introduction for Python Analytics](https://www.youtube.com/watch?v=UKBKXOB3zcs)
+- [Data 747 Python for Data Analytics Course Introduction](https://www.youtube.com/watch?v=R3qDmDcfmLw)
 - [Live Coding Introduction - Building Shiny / Flex Dashboard](https://www.youtube.com/watch?v=fVrIpZHxPRA)
 - [Case Statement in R](https://www.youtube.com/watch?v=9efP5D-323k)
 - [Scheduling Tasks and Database Connections in R](https://www.youtube.com/watch?v=yJlqqYwzsuE)
@@ -64,10 +68,6 @@ Welcome to my code portal! As a data scientist and software developer with exten
 - [Lists, Quanteda, and Linear Regression Exercise](https://www.youtube.com/watch?v=FAm3P-TeqDc)
 - [Dixon Test for Outliers in R](https://www.youtube.com/watch?v=DPFGrZFfAo0)
 - [Recursion Example in R](https://www.youtube.com/watch?v=rLmfFhwwWH0)
-- [2022 Fall Data 710 Week 2](https://www.youtube.com/watch?v=cI_QpKjMD6Q)
-- [Finance Use Case](https://www.youtube.com/watch?v=wDIzHWdKb-4)
-- [SVM Model Issues](https://www.youtube.com/watch?v=YJAMlR6hu1M)
-- [Classification Algorithms](https://www.youtube.com/watch?v=DhtDwCJcE34)
 <!-- YOUTUBE:END -->
 
 ---
