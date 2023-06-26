@@ -53,6 +53,8 @@ Welcome to my code portal! As a data scientist and software developer with exten
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Basic Pandas Functions](https://www.youtube.com/watch?v=xXyKxDc4FlY)
+- [Basic NumPy Functions](https://www.youtube.com/watch?v=ER_0PoWyn7s)
 - [Implementing Basic Control Structures in Python](https://www.youtube.com/watch?v=BT4P07M2h80)
 - [Why should I learn python?  My perspective](https://www.youtube.com/watch?v=K69Bjx1aJSk)
 - [Simple GIT Introduction for Python Analytics](https://www.youtube.com/watch?v=UKBKXOB3zcs)
@@ -66,8 +68,6 @@ Welcome to my code portal! As a data scientist and software developer with exten
 - [Initial Data Warehouse Project Information](https://www.youtube.com/watch?v=Y2WdbwvsUwY)
 - [S3 and S4 Classes in R](https://www.youtube.com/watch?v=RTcEUEkSjEU)
 - [Lists, Quanteda, and Linear Regression Exercise](https://www.youtube.com/watch?v=FAm3P-TeqDc)
-- [Dixon Test for Outliers in R](https://www.youtube.com/watch?v=DPFGrZFfAo0)
-- [Recursion Example in R](https://www.youtube.com/watch?v=rLmfFhwwWH0)
 <!-- YOUTUBE:END -->
 
 ---
