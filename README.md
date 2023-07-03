@@ -53,6 +53,7 @@ Welcome to my code portal! As a data scientist and software developer with exten
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Simple machine learning with scikit-learn and Python](https://www.youtube.com/watch?v=XglRiBLU0XA)
 - [Basic visualizations with MatPlotlib](https://www.youtube.com/watch?v=td8nfPpQx7k)
 - [Basic Pandas Functions](https://www.youtube.com/watch?v=xXyKxDc4FlY)
 - [Basic NumPy Functions](https://www.youtube.com/watch?v=ER_0PoWyn7s)
@@ -67,7 +68,6 @@ Welcome to my code portal! As a data scientist and software developer with exten
 - [Good and Poor Form](https://www.youtube.com/watch?v=ypJlUwB1x1E)
 - [String Manipulation in R](https://www.youtube.com/watch?v=zePa2VIxyTU)
 - [Initial Data Warehouse Project Information](https://www.youtube.com/watch?v=Y2WdbwvsUwY)
-- [S3 and S4 Classes in R](https://www.youtube.com/watch?v=RTcEUEkSjEU)
 <!-- YOUTUBE:END -->
 
 ---
