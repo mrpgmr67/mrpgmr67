@@ -53,6 +53,10 @@ Welcome to my code portal! As a data scientist and software developer with exten
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Introduction to Natural Language Processing and Text Analytics in Python using NLTK](https://www.youtube.com/watch?v=XBmI0q2bvF0)
+- [Advanced visualization with Seaborn, Plotly, and MatPlotLib](https://www.youtube.com/watch?v=BmJ21insK-U)
+- [Creating a basic data pipeline &lpar;data engineering and outlier detection&rpar; in Python](https://www.youtube.com/watch?v=eIRYtAmGWo0)
+- [Basic Exploratory Data Analysis with Python](https://www.youtube.com/watch?v=Ky4x8aL4SLU)
 - [Simple machine learning with scikit-learn and Python](https://www.youtube.com/watch?v=XglRiBLU0XA)
 - [Basic visualizations with MatPlotlib](https://www.youtube.com/watch?v=td8nfPpQx7k)
 - [Basic Pandas Functions](https://www.youtube.com/watch?v=xXyKxDc4FlY)
@@ -64,10 +68,6 @@ Welcome to my code portal! As a data scientist and software developer with exten
 - [Live Coding Introduction - Building Shiny / Flex Dashboard](https://www.youtube.com/watch?v=fVrIpZHxPRA)
 - [Case Statement in R](https://www.youtube.com/watch?v=9efP5D-323k)
 - [Scheduling Tasks and Database Connections in R](https://www.youtube.com/watch?v=yJlqqYwzsuE)
-- [Graphics Expanded](https://www.youtube.com/watch?v=np8w7J3E3j0)
-- [Good and Poor Form](https://www.youtube.com/watch?v=ypJlUwB1x1E)
-- [String Manipulation in R](https://www.youtube.com/watch?v=zePa2VIxyTU)
-- [Initial Data Warehouse Project Information](https://www.youtube.com/watch?v=Y2WdbwvsUwY)
 <!-- YOUTUBE:END -->
 
 ---
