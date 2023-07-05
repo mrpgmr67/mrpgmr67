@@ -53,6 +53,8 @@ Welcome to my code portal! As a data scientist and software developer with exten
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Final Project - Jupyter Notebook &lpar;Titanic Dataset&rpar;](https://www.youtube.com/watch?v=X-JgwhGsdiA)
+- [Final Project - Project Proposal &lpar;Titanic Dataset&rpar;](https://www.youtube.com/watch?v=j0w1n-rsS0U)
 - [Introduction to Natural Language Processing and Text Analytics in Python using NLTK](https://www.youtube.com/watch?v=XBmI0q2bvF0)
 - [Advanced visualization with Seaborn, Plotly, and MatPlotLib](https://www.youtube.com/watch?v=BmJ21insK-U)
 - [Creating a basic data pipeline &lpar;data engineering and outlier detection&rpar; in Python](https://www.youtube.com/watch?v=eIRYtAmGWo0)
@@ -66,8 +68,6 @@ Welcome to my code portal! As a data scientist and software developer with exten
 - [Simple GIT Introduction for Python Analytics](https://www.youtube.com/watch?v=UKBKXOB3zcs)
 - [Data 747 Python for Data Analytics Course Introduction](https://www.youtube.com/watch?v=R3qDmDcfmLw)
 - [Live Coding Introduction - Building Shiny / Flex Dashboard](https://www.youtube.com/watch?v=fVrIpZHxPRA)
-- [Case Statement in R](https://www.youtube.com/watch?v=9efP5D-323k)
-- [Scheduling Tasks and Database Connections in R](https://www.youtube.com/watch?v=yJlqqYwzsuE)
 <!-- YOUTUBE:END -->
 
 ---
