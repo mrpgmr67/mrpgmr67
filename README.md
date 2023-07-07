@@ -53,6 +53,7 @@ Welcome to my code portal! As a data scientist and software developer with exten
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Deep Learning Models in Python &lpar;RNN, CNN, GAN&rpar;](https://www.youtube.com/watch?v=2StJmM4aRzA)
 - [Final Project - Jupyter Notebook &lpar;Titanic Dataset&rpar;](https://www.youtube.com/watch?v=X-JgwhGsdiA)
 - [Final Project - Project Proposal &lpar;Titanic Dataset&rpar;](https://www.youtube.com/watch?v=j0w1n-rsS0U)
 - [Introduction to Natural Language Processing and Text Analytics in Python using NLTK](https://www.youtube.com/watch?v=XBmI0q2bvF0)
@@ -67,7 +68,6 @@ Welcome to my code portal! As a data scientist and software developer with exten
 - [Why should I learn python?  My perspective](https://www.youtube.com/watch?v=K69Bjx1aJSk)
 - [Simple GIT Introduction for Python Analytics](https://www.youtube.com/watch?v=UKBKXOB3zcs)
 - [Data 747 Python for Data Analytics Course Introduction](https://www.youtube.com/watch?v=R3qDmDcfmLw)
-- [Live Coding Introduction - Building Shiny / Flex Dashboard](https://www.youtube.com/watch?v=fVrIpZHxPRA)
 <!-- YOUTUBE:END -->
 
 ---
