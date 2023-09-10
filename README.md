@@ -53,6 +53,10 @@ Welcome to my code portal! As a data scientist and software developer with exten
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Historical Development of Data Systems](https://www.youtube.com/watch?v=4z3jURp_B8c)
+- [Introduction to Cloud Computing](https://www.youtube.com/watch?v=zoC_QZj5O0s)
+- [Cloud Computing Models](https://www.youtube.com/watch?v=Fkj4hdMOINo)
+- [Data Warehouses, Data Lakes, Data Integration Hubs, and Cloud Architecture](https://www.youtube.com/watch?v=HxDCvXD1-bA)
 - [Deep Learning Models in Python &lpar;RNN, CNN, GAN&rpar;](https://www.youtube.com/watch?v=2StJmM4aRzA)
 - [Final Project - Jupyter Notebook &lpar;Titanic Dataset&rpar;](https://www.youtube.com/watch?v=X-JgwhGsdiA)
 - [Final Project - Project Proposal &lpar;Titanic Dataset&rpar;](https://www.youtube.com/watch?v=j0w1n-rsS0U)
@@ -64,10 +68,6 @@ Welcome to my code portal! As a data scientist and software developer with exten
 - [Basic visualizations with MatPlotlib](https://www.youtube.com/watch?v=td8nfPpQx7k)
 - [Basic Pandas Functions](https://www.youtube.com/watch?v=xXyKxDc4FlY)
 - [Basic NumPy Functions](https://www.youtube.com/watch?v=ER_0PoWyn7s)
-- [Implementing Basic Control Structures in Python](https://www.youtube.com/watch?v=BT4P07M2h80)
-- [Why should I learn python?  My perspective](https://www.youtube.com/watch?v=K69Bjx1aJSk)
-- [Simple GIT Introduction for Python Analytics](https://www.youtube.com/watch?v=UKBKXOB3zcs)
-- [Data 747 Python for Data Analytics Course Introduction](https://www.youtube.com/watch?v=R3qDmDcfmLw)
 <!-- YOUTUBE:END -->
 
 ---
