@@ -7,7 +7,7 @@ Welcome to my code portal! As a data scientist and software developer with exten
 - 🔭 I’m currently teaching graduate data science courses (Python, R, SPSS, Cloud, MLOps, Cyber) as well as helping on numerous open source projects
 - 🌱 I’m currently reading the Medici Effect for possible content integration
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Integrate automations into solutions (ChatGPT, AI/MLOps, SecDevOps, etc.)
+- 🥅 2024 Goals: Integrate automations into solutions (ChatGPT, AI/MLOps, SecDevOps, etc.)
 - ⚡ Fun fact: I love travel and new experiences
 
 ### Connect with me:
