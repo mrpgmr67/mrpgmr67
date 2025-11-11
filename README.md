@@ -77,9 +77,6 @@ Welcome to my code portal! As a data scientist and software developer with exten
 <a href="https://github.com/mrpgmr67/Data-analytics-SPSS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=Data-analytics-SPSS&theme=dark" />
 </a>
-<a href="https://github.com/mrpgmr67/Breakfast-Button">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=Breakfast-Button&theme=dark" />
-</a>
 <a href="https://github.com/mrpgmr67/hack-the-machine">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=hack-the-machine&theme=dark" />
 </a>
