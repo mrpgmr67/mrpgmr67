@@ -66,7 +66,7 @@ Welcome to my code portal! As a data scientist and software developer with exten
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrpgmr67&layout=pie&langs_count=14)](https://github.com/mrpgmr67/github-readme-stats)
 ---
 
-### Selected Repositories:
+### Selected Open Repositories:
 
 <a href="https://github.com/mrpgmr67/Introduction-to-R">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=Introduction-to-R&theme=dark" />
