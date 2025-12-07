@@ -69,31 +69,22 @@ Welcome to my code portal! As a data scientist and software developer with exten
 ### Selected Open Repositories:
 
 <a href="https://github.com/mrpgmr67/Introduction-to-R">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=Introduction-to-R&theme=dark" />
-</a>
-<a href="https://github.com/mrpgmr67/Data-Warehousing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=Data-Warehousing&theme=dark" />
+  <img align="center" src="https://github-readme-stats-ebon-eta-14.vercel.app/api/pin/?username=mrpgmr67&repo=Data-Warehousing&theme=dark" />
 </a>
 <a href="https://github.com/mrpgmr67/Data-analytics-SPSS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=Data-analytics-SPSS&theme=dark" />
+  <img align="center" src="https://github-readme-stats-ebon-eta-14.vercel.app/api/pin/?username=mrpgmr67&repo=Data-analytics-SPSS&theme=dark" />
 </a>
 <a href="https://github.com/mrpgmr67/hack-the-machine">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=hack-the-machine&theme=dark" />
+  <img align="center" src="https://github-readme-stats-ebon-eta-14.vercel.app/api/pin/?username=mrpgmr67&repo=hack-the-machine&theme=dark" />
 </a>
 <a href="https://github.com/mrpgmr67/CICD-Pipeline">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=CICD-Pipeline&theme=dark" />
+  <img align="center" src="https://github-readme-stats-ebon-eta-14.vercel.app/api/pin/?username=mrpgmr67&repo=CICD-Pipeline&theme=dark" />
 </a>
 <a href="https://github.com/mrpgmr67/random-user-gen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=random-user-gen&theme=dark" />
+  <img align="center" src="https://github-readme-stats-ebon-eta-14.vercel.app/api/pin/?username=mrpgmr67&repo=random-user-gen&theme=dark" />
 </a>
 <a href="https://github.com/mrpgmr67/API-Proxy-Server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=API-Proxy-Server&theme=dark" />
-</a>
-<a href="https://github.com/mrpgmr67/python-scratch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=python-scratch&theme=dark" />
-</a>
-<a href="https://github.com/mrpgmr67/token-list">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpgmr67&repo=token-list&theme=dark" />
+  <img align="center" src="https://github-readme-stats-ebon-eta-14.vercel.app/api/pin/?username=mrpgmr67&repo=API-Proxy-Server&theme=dark" />
 </a>
 
 [website]: http://pomatto.com
