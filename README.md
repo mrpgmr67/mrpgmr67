@@ -63,7 +63,7 @@ Welcome to my code portal! As a data scientist and software developer with exten
 
 ---
 ### Repository Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrpgmr67&layout=pie&langs_count=14)](https://github.com/mrpgmr67/github-readme-stats)
+[![Top Langs](github-readme-stats-git-master-michael-s-pomattos-projects.vercel.app/api/top-langs/?username=mrpgmr67&layout=pie&langs_count=14)](https://github.com/mrpgmr67/github-readme-stats)
 ---
 
 ### Selected Open Repositories:
