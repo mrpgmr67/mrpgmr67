@@ -53,12 +53,21 @@ Welcome to my code portal! As a data scientist and software developer with exten
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [How to fool a technical interviewer and thoughts on how they can improve](https://www.youtube.com/watch?v=2_zV7vTGp5M)
-- [마이클포마토 Live Stream](https://www.youtube.com/watch?v=nqDHufvKFB4)
-- [The Breakfast Button](https://www.youtube.com/watch?v=Vql3huNXLo8)
-- [Updated prototype of iReject Application](https://www.youtube.com/watch?v=TwlmpX0JI0k)
-- [Game Prototype Initial Screen - iReject](https://www.youtube.com/watch?v=sP_9u4_UJxI)
-- [Breakfast Button Mobile Game](https://www.youtube.com/watch?v=jRGDXrwRgMM)
+- [Introduction to R Supplementary Video](https://www.youtube.com/watch?v=7YEzpLO4G1s)
+- [Introduction to R Solution Demonstration Week 1](https://www.youtube.com/watch?v=UU4wLjW8F6k)
+- [Data Lakes, Data Warehousing, Enterprise Data Hub - Architectural Designs](https://www.youtube.com/watch?v=k5LGlUfRPeE)
+- [Week One Introduction Data 728](https://www.youtube.com/watch?v=xIXSdini7tY)
+- [K Roy Week 9](https://www.youtube.com/watch?v=QaY-JfNzLZY)
+- [Shiny and Flex Dashboards](https://www.youtube.com/watch?v=xN2H_2NwHG8)
+- [Case for a Data Warehouse System](https://www.youtube.com/watch?v=RtBmLF7YIp8)
+- [Data Analytics in Healthcare](https://www.youtube.com/watch?v=b8m0RyrRteA)
+- [Historical Development of Data Systems](https://www.youtube.com/watch?v=4z3jURp_B8c)
+- [Introduction to Cloud Computing](https://www.youtube.com/watch?v=zoC_QZj5O0s)
+- [Cloud Computing Models](https://www.youtube.com/watch?v=Fkj4hdMOINo)
+- [Data Warehouses, Data Lakes, Data Integration Hubs, and Cloud Architecture](https://www.youtube.com/watch?v=HxDCvXD1-bA)
+- [Deep Learning Models in Python &lpar;RNN, CNN, GAN&rpar;](https://www.youtube.com/watch?v=2StJmM4aRzA)
+- [Final Project - Jupyter Notebook &lpar;Titanic Dataset&rpar;](https://www.youtube.com/watch?v=X-JgwhGsdiA)
+- [Final Project - Project Proposal &lpar;Titanic Dataset&rpar;](https://www.youtube.com/watch?v=j0w1n-rsS0U)
 <!-- YOUTUBE:END -->
 
 ---
